@@ -1,3 +1,4 @@
+package Q1_Solar_Doomsday;
 public class Solution {
   public static int getGreatestSquare(int i) {
     int x = i;
